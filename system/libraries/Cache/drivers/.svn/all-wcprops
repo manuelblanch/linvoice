@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/libraries/Cache/drivers
+END
+Cache_apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/libraries/Cache/drivers/Cache_apc.php
+END
+Cache_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/libraries/Cache/drivers/Cache_file.php
+END
+Cache_memcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/libraries/Cache/drivers/Cache_memcached.php
+END
+Cache_dummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/libraries/Cache/drivers/Cache_dummy.php
+END

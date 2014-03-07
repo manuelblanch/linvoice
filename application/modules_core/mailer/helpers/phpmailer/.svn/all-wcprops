@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer/class.phpmailer.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer/LICENSE
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer/class.pop3.php
+END
+mailtest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer/mailtest.php
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer/changelog.txt
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer/class.smtp.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer/README
+END
+aboutus.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/helpers/phpmailer/aboutus.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/assets/style/img/messages
+END
+error.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/assets/style/img/messages/error.png
+END
+warning.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/assets/style/img/messages/warning.png
+END
+info.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/assets/style/img/messages/info.png
+END
+success.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/assets/style/img/messages/success.png
+END

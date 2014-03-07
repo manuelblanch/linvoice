@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoice_search/controllers
+END
+invoice_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoice_search/controllers/invoice_search.php
+END
+search_results.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoice_search/controllers/search_results.php
+END

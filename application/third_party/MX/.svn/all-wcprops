@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX
+END
+Ci.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX/Ci.php
+END
+Modules.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX/Modules.php
+END
+Router.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX/Router.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX/Controller.php
+END
+Lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX/Lang.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX/Base.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX/Config.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/third_party/MX/Loader.php
+END

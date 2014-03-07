@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/controllers
+END
+inventory_sales.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/controllers/inventory_sales.php
+END
+client_statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/controllers/client_statement.php
+END
+inventory_history.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/controllers/inventory_history.php
+END
+client_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/controllers/client_list.php
+END

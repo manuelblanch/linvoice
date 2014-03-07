@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_custom/export/controllers
+END
+setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_custom/export/controllers/setup.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_custom/export/controllers/export.php
+END

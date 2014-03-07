@@ -1,0 +1,50 @@
+10
+
+dir
+100
+https://lssvn.svn.beanstalkapp.com/l-services/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices
+https://lssvn.svn.beanstalkapp.com/l-services
+
+
+
+2011-11-02T11:26:55.787325Z
+54
+josephpnc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6c0410ec-7d5e-47ca-8446-8dbc3bc7bc91
+
+
+
+
+
+
+0
+
+models
+dir
+
+config
+dir
+
+controllers
+dir
+
+libraries
+dir
+
+views
+dir
+

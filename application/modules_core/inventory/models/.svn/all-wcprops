@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/inventory/models
+END
+mdl_inventory_stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/inventory/models/mdl_inventory_stock.php
+END
+mdl_inventory_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/inventory/models/mdl_inventory_types.php
+END
+mdl_inventory.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/inventory/models/mdl_inventory.php
+END

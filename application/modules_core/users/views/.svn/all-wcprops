@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/15/trunk/linvoice_mcb_0.9.5/application/modules_core/users/views
+END
+sidebar.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/users/views/sidebar.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/l-services/!svn/ver/15/trunk/linvoice_mcb_0.9.5/application/modules_core/users/views/form.php
+END
+change_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/users/views/change_password.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/users/views/index.php
+END

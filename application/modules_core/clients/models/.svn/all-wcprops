@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/l-services/!svn/ver/29/trunk/linvoice_mcb_0.9.5/application/modules_core/clients/models
+END
+mdl_contacts.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/clients/models/mdl_contacts.php
+END
+mdl_clients.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/l-services/!svn/ver/29/trunk/linvoice_mcb_0.9.5/application/modules_core/clients/models/mdl_clients.php
+END

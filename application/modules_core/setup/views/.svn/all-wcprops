@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views
+END
+install_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/install_status.php
+END
+ci_db_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/ci_db_config.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/footer.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/install.php
+END
+license_agreement.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/license_agreement.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/upgrade.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/header.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/index.php
+END
+db_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/db_config.php
+END
+db_show_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/db_show_config.php
+END
+upgrade_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/setup/views/upgrade_status.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views
+END
+form_no_invoices.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/form_no_invoices.php
+END
+payment_method_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/payment_method_form.php
+END
+sidebar.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/sidebar.php
+END
+jquery_receipt_generate.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/jquery_receipt_generate.php
+END
+payment_method_index.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/payment_method_index.php
+END
+table.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/table.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/index.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/settings.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/views/form.php
+END

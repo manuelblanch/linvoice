@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/lib/ttf2ufm/ttf2ufm-src/encodings/russian
+END
+iso8859-5.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/lib/ttf2ufm/ttf2ufm-src/encodings/russian/iso8859-5.tbl
+END
+encodings.alias
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/lib/ttf2ufm/ttf2ufm-src/encodings/russian/encodings.alias
+END
+ibm-1251.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/lib/ttf2ufm/ttf2ufm-src/encodings/russian/ibm-1251.tbl
+END
+koi8-r.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/lib/ttf2ufm/ttf2ufm-src/encodings/russian/koi8-r.tbl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/lib/ttf2ufm/ttf2ufm-src/encodings/russian/README
+END
+ibm-866.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/lib/ttf2ufm/ttf2ufm-src/encodings/russian/ibm-866.tbl
+END

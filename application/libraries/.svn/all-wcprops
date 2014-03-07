@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/libraries
+END
+redir.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/libraries/redir.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/libraries/index.html
+END
+MY_Form_validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/libraries/MY_Form_validation.php
+END
+db_backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/libraries/db_backup.php
+END

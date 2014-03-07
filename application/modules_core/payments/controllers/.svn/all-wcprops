@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/controllers
+END
+payment_widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/controllers/payment_widgets.php
+END
+payment_methods.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/controllers/payment_methods.php
+END
+payment_settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/controllers/payment_settings.php
+END
+payments.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/controllers/payments.php
+END

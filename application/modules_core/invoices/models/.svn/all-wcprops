@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/l-services/!svn/ver/13/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices/models
+END
+mdl_invoice_history.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices/models/mdl_invoice_history.php
+END
+mdl_invoices.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/l-services/!svn/ver/13/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices/models/mdl_invoices.php
+END
+mdl_items.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices/models/mdl_items.php
+END
+mdl_invoice_amounts.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices/models/mdl_invoice_amounts.php
+END
+mdl_invoice_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices/models/mdl_invoice_reports.php
+END
+mdl_invoice_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices/models/mdl_invoice_tags.php
+END
+mdl_invoice_groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/invoices/models/mdl_invoice_groups.php
+END

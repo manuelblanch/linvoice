@@ -1,0 +1,43 @@
+10
+
+dir
+100
+https://lssvn.svn.beanstalkapp.com/l-services/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses
+https://lssvn.svn.beanstalkapp.com/l-services
+
+
+
+2012-09-11T09:08:53.689645Z
+100
+dungnv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6c0410ec-7d5e-47ca-8446-8dbc3bc7bc91
+
+models
+dir
+
+upload
+dir
+
+config
+dir
+
+controllers
+dir
+
+views
+dir
+

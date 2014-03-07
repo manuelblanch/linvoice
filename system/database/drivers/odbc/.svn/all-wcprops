@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/database/drivers/odbc
+END
+odbc_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/database/drivers/odbc/odbc_result.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/database/drivers/odbc/index.html
+END
+odbc_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/database/drivers/odbc/odbc_forge.php
+END
+odbc_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/database/drivers/odbc/odbc_driver.php
+END
+odbc_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/database/drivers/odbc/odbc_utility.php
+END

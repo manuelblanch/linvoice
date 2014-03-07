@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/l-services/!svn/ver/98/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views
+END
+sidebar.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/l-services/!svn/ver/57/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views/sidebar.php
+END
+tab_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/l-services/!svn/ver/98/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views/tab_form.php
+END
+category.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/l-services/!svn/ver/57/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views/category.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/l-services/!svn/ver/57/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views/form.php
+END
+add_category.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/l-services/!svn/ver/73/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views/add_category.php
+END
+expense_search_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/63/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views/expense_search_view.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/l-services/!svn/ver/98/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views/index.php
+END
+sidebar_item.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/l-services/!svn/ver/57/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/views/sidebar_item.php
+END

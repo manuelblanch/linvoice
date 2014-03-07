@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/models
+END
+mdl_payments.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/models/mdl_payments.php
+END
+mdl_payment_methods.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/payments/models/mdl_payment_methods.php
+END

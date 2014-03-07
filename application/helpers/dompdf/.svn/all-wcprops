@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf
+END
+load_font.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/load_font.php
+END
+LICENSE.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/LICENSE.LGPL
+END
+dompdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/dompdf.php
+END
+dompdf_config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/helpers/dompdf/dompdf_config.inc.php
+END

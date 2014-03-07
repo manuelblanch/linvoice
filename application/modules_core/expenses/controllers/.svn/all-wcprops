@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/l-services/!svn/ver/100/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/controllers
+END
+expenses.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/l-services/!svn/ver/100/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/controllers/expenses.php
+END
+category.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/l-services/!svn/ver/57/trunk/linvoice_mcb_0.9.5/application/modules_core/expenses/controllers/category.php
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views
+END
+client_statement_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/client_statement_view.php
+END
+inventory_sales.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/inventory_sales.php
+END
+partial_output_type.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/partial_output_type.php
+END
+client_statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/client_statement.php
+END
+inventory_sales_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/inventory_sales_view.php
+END
+inventory_sales_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/inventory_sales_pdf.php
+END
+client_statement_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/client_statement_pdf.php
+END
+inventory_history.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/inventory_history.php
+END
+client_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/client_list.php
+END
+client_list_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/client_list_view.php
+END
+css.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/css.php
+END
+inventory_history_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/inventory_history_view.php
+END
+inventory_history_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/inventory_history_pdf.php
+END
+client_list_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/reports/views/client_list_pdf.php
+END

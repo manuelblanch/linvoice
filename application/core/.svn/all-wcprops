@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core
+END
+MY_Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core/MY_Loader.php
+END
+MY_Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core/MY_Model.php
+END
+Admin_Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core/Admin_Controller.php
+END
+MY_Router.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core/MY_Router.php
+END
+Cron_Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core/Cron_Controller.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core/index.html
+END
+MY_Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core/MY_Controller.php
+END
+Client_Center_Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/core/Client_Center_Controller.php
+END

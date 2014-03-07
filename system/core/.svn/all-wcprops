@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core
+END
+CodeIgniter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/CodeIgniter.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Controller.php
+END
+Benchmark.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Benchmark.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/index.html
+END
+Output.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Output.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Config.php
+END
+Exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Exceptions.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Model.php
+END
+Router.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Router.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Input.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Common.php
+END
+URI.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/URI.php
+END
+Lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Lang.php
+END
+Hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Hooks.php
+END
+Utf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Utf8.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/system/core/Loader.php
+END

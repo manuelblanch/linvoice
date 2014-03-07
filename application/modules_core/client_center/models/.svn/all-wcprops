@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/client_center/models
+END
+mdl_client_sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/client_center/models/mdl_client_sessions.php
+END
+mdl_client_center.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/client_center/models/mdl_client_center.php
+END
+mdl_client_auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/client_center/models/mdl_client_auth.php
+END
+mdl_client_account.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/client_center/models/mdl_client_account.php
+END

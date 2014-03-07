@@ -1,0 +1,104 @@
+10
+
+dir
+100
+https://lssvn.svn.beanstalkapp.com/l-services/trunk/linvoice_mcb_0.9.5/application/modules_core
+https://lssvn.svn.beanstalkapp.com/l-services
+
+
+
+2012-09-11T09:08:53.689645Z
+100
+dungnv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6c0410ec-7d5e-47ca-8446-8dbc3bc7bc91
+
+
+
+
+
+
+0
+
+invoices
+dir
+
+invoice_search
+dir
+
+mcb_menu
+dir
+
+dashboard
+dir
+
+invoice_statuses
+dir
+
+mcb_modules
+dir
+
+expenses
+dir
+
+tax_rates
+dir
+
+mcb_data
+dir
+
+inventory
+dir
+
+templates
+dir
+
+reports
+dir
+
+setup
+dir
+
+settings
+dir
+
+payments
+dir
+
+cron
+dir
+
+clients
+dir
+
+users
+dir
+
+mcb_language
+dir
+
+fields
+dir
+
+sessions
+dir
+
+mailer
+dir
+
+client_center
+dir
+

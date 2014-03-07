@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/views
+END
+invoice_mailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/views/invoice_mailer.php
+END
+payment_mailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/views/payment_mailer.php
+END
+invoice_overdue.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/views/invoice_overdue.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/l-services/!svn/ver/3/trunk/linvoice_mcb_0.9.5/application/modules_core/mailer/views/settings.php
+END
